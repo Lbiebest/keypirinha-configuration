@@ -3,7 +3,7 @@
       "creator" : "Keypirinha v2.26 (e037f62)",
       "creator_url" : "http://keypirinha.com/",
       "format" : 102,
-      "modified" : "2024-12-15T12:15:13+0000",
+      "modified" : "2024-12-15T12:44:51+0000",
       "type" : "history"
    },
    "history" : [
@@ -456,6 +456,30 @@
          "item" : 18313120601887940035,
          "label" : "WeChat",
          "time" : "2024-12-15T12:15:13+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13903072334099508694,
+         "label" : "PackageControl: Install Package",
+         "time" : "2024-12-15T12:29:07+0000"
+      },
+      {
+         "action" : null,
+         "item" : 15075744586235774773,
+         "label" : "Win 10 Themes Switcher: Toggle",
+         "time" : "2024-12-15T12:29:30+0000"
+      },
+      {
+         "action" : null,
+         "item" : 15075744586235774773,
+         "label" : "Win 10 Themes Switcher: Toggle",
+         "time" : "2024-12-15T12:29:35+0000"
+      },
+      {
+         "action" : null,
+         "item" : 11513435538503239237,
+         "label" : "Visual Studio Code",
+         "time" : "2024-12-15T12:44:51+0000"
       }
    ],
    "sets" : {
@@ -792,6 +816,17 @@
             "target" : "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\物华弥新-MuMu模拟器12\\whmx.lnk"
          },
          {
+            "args_hint" : "forbidden",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 15075744586235774773,
+            "label" : "Win 10 Themes Switcher: Toggle",
+            "loop_on_suggest" : false,
+            "plugin" : "Win10-Theme-Switcher.Win10ThemeSwitcher",
+            "short_desc" : "Toggle Windows 10 Theme: Light / Dark",
+            "target" : "win10themeswitcher:toggle"
+         },
+         {
             "args_hint" : "accepted",
             "category" : "file",
             "hit_hint" : "keepall",
@@ -907,6 +942,10 @@
          {
             "items" : [ 17128945362953238885 ],
             "search" : "spotify"
+         },
+         {
+            "items" : [ 15075744586235774773 ],
+            "search" : "theme"
          },
          {
             "items" : [ 18313120601887940035 ],
