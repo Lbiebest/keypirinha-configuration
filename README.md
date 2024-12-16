@@ -10,7 +10,7 @@
 
 ```terminal
 C:.
-├───InstalledPackages  // 安装插件目录 ‘PACKAGE-CONTROL’
+├───InstalledPackages  // 安装插件目录 ‘通过插件 PackageControl’
 ├───Packages           // 包目录
 └───User               // 用户配置目录
 ```

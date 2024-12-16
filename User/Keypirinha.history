@@ -3,7 +3,7 @@
       "creator" : "Keypirinha v2.26 (e037f62)",
       "creator_url" : "http://keypirinha.com/",
       "format" : 102,
-      "modified" : "2024-12-15T12:44:51+0000",
+      "modified" : "2024-12-16T08:46:43+0000",
       "type" : "history"
    },
    "history" : [
@@ -480,6 +480,114 @@
          "item" : 11513435538503239237,
          "label" : "Visual Studio Code",
          "time" : "2024-12-15T12:44:51+0000"
+      },
+      {
+         "action" : null,
+         "item" : 16257428652159271875,
+         "label" : "Bookmark: linux.do (Chrome)",
+         "time" : "2024-12-15T13:32:26+0000"
+      },
+      {
+         "action" : null,
+         "item" : 11513435538503239237,
+         "label" : "Visual Studio Code",
+         "time" : "2024-12-15T13:36:06+0000"
+      },
+      {
+         "action" : null,
+         "item" : 11513435538503239237,
+         "label" : "Visual Studio Code",
+         "time" : "2024-12-15T13:45:03+0000"
+      },
+      {
+         "action" : null,
+         "item" : 8128916363279953795,
+         "label" : "Bookmark: WallHaven (Chrome)",
+         "time" : "2024-12-16T03:35:38+0000"
+      },
+      {
+         "action" : null,
+         "item" : 16257428652159271875,
+         "label" : "Bookmark: linux.do (Chrome)",
+         "time" : "2024-12-16T03:58:18+0000"
+      },
+      {
+         "action" : null,
+         "item" : 3427116451759522124,
+         "label" : "JPEGView",
+         "time" : "2024-12-16T04:00:18+0000"
+      },
+      {
+         "action" : null,
+         "item" : 18313120601887940035,
+         "label" : "WeChat",
+         "time" : "2024-12-16T04:00:20+0000"
+      },
+      {
+         "action" : null,
+         "item" : 17128945362953238885,
+         "label" : "Spotify",
+         "time" : "2024-12-16T05:55:28+0000"
+      },
+      {
+         "action" : null,
+         "item" : 156026920075277706,
+         "label" : "whmx",
+         "time" : "2024-12-16T05:56:01+0000"
+      },
+      {
+         "action" : null,
+         "item" : 16257428652159271875,
+         "label" : "Bookmark: linux.do (Chrome)",
+         "time" : "2024-12-16T06:42:16+0000"
+      },
+      {
+         "action" : null,
+         "item" : 4916993049786705343,
+         "label" : "Cursor",
+         "time" : "2024-12-16T06:48:50+0000"
+      },
+      {
+         "action" : null,
+         "item" : 851951254772153981,
+         "label" : "IntelliJ IDEA Ultimate",
+         "time" : "2024-12-16T06:56:18+0000"
+      },
+      {
+         "action" : null,
+         "item" : 81257960150595883,
+         "label" : "Android Studio",
+         "time" : "2024-12-16T06:56:50+0000"
+      },
+      {
+         "action" : null,
+         "item" : 4691499543418761912,
+         "label" : "Control Panel: SupportAssist OS Recovery",
+         "time" : "2024-12-16T07:14:20+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13331243579492768802,
+         "label" : "draw.io",
+         "time" : "2024-12-16T08:03:06+0000"
+      },
+      {
+         "action" : null,
+         "item" : 10668204258612926989,
+         "label" : "PackageControl: Update Repository List",
+         "time" : "2024-12-16T08:11:25+0000"
+      },
+      {
+         "action" : null,
+         "item" : 11513435538503239237,
+         "label" : "Visual Studio Code",
+         "time" : "2024-12-16T08:46:38+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13141038874644948603,
+         "label" : "code.cmd",
+         "time" : "2024-12-16T08:46:43+0000"
       }
    ],
    "sets" : {
@@ -507,6 +615,17 @@
          }
       ],
       "items" : [
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 81257960150595883,
+            "label" : "Android Studio",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\JetBrains Toolbox",
+            "target" : "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains Toolbox\\Android Studio.lnk"
+         },
          {
             "args_hint" : "accepted",
             "category" : "file",
@@ -588,12 +707,78 @@
             "args_hint" : "forbidden",
             "category" : "url",
             "hit_hint" : "noargs",
+            "id" : 16257428652159271875,
+            "label" : "Bookmark: linux.do (Chrome)",
+            "loop_on_suggest" : false,
+            "plugin" : "Bookmarks.Bookmarks",
+            "short_desc" : "",
+            "target" : "https://linux.do/"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "url",
+            "hit_hint" : "noargs",
             "id" : 9297726530501381950,
             "label" : "Bookmark: portainer (Chrome)",
             "loop_on_suggest" : false,
             "plugin" : "Bookmarks.Bookmarks",
             "short_desc" : "",
             "target" : "http://localhost:9000/#!/home"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "url",
+            "hit_hint" : "noargs",
+            "id" : 8128916363279953795,
+            "label" : "Bookmark: WallHaven (Chrome)",
+            "loop_on_suggest" : false,
+            "plugin" : "Bookmarks.Bookmarks",
+            "short_desc" : "",
+            "target" : "https://wallhaven.cc/"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 13141038874644948603,
+            "label" : "code.cmd",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code.cmd"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 4691499543418761912,
+            "label" : "Control Panel: SupportAssist OS Recovery",
+            "loop_on_suggest" : false,
+            "plugin" : "ControlPanel.ControlPanel",
+            "short_desc" : "SupportAssist OS Recovery设置",
+            "target" : "{0052D9FC-6764-4D29-A66F-2F3BD9E2BB40}"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 4916993049786705343,
+            "label" : "Cursor",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.Desktop",
+            "short_desc" : "Desktop: Desktop",
+            "target" : "D:\\Desktop\\Cursor.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 13331243579492768802,
+            "label" : "draw.io",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Chrome 应用",
+            "target" : "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Chrome 应用\\draw.io.lnk"
          },
          {
             "args_hint" : "accepted",
@@ -627,6 +812,17 @@
             "plugin" : "Apps.StartMenu",
             "short_desc" : "Start Menu: Programs\\JetBrains Toolbox",
             "target" : "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains Toolbox\\JetBrains Toolbox.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 3427116451759522124,
+            "label" : "JPEGView",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\JPEGView.lnk"
          },
          {
             "args_hint" : "accepted",
@@ -715,6 +911,17 @@
             "plugin" : "PackageControl.PackageControl",
             "short_desc" : "Installs a new packages from the repository",
             "target" : "install"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 10668204258612926989,
+            "label" : "PackageControl: Update Repository List",
+            "loop_on_suggest" : false,
+            "plugin" : "PackageControl.PackageControl",
+            "short_desc" : "Updates the list of packages from the repository",
+            "target" : "update_repo"
          },
          {
             "args_hint" : "accepted",
@@ -844,6 +1051,10 @@
             "search" : "alist"
          },
          {
+            "items" : [ 81257960150595883 ],
+            "search" : "android"
+         },
+         {
             "items" : [ 15708321626203170913 ],
             "search" : "api"
          },
@@ -852,12 +1063,24 @@
             "search" : "auto"
          },
          {
-            "items" : [ 11513435538503239237 ],
+            "items" : [ 13141038874644948603, 11513435538503239237 ],
             "search" : "code"
+         },
+         {
+            "items" : [ 10668204258612926989, 4691499543418761912, 4916993049786705343 ],
+            "search" : "cursor"
          },
          {
             "items" : [ 12811538124593385442 ],
             "search" : "deep"
+         },
+         {
+            "items" : [ 13331243579492768802 ],
+            "search" : "draw"
+         },
+         {
+            "items" : [ 3427116451759522124 ],
+            "search" : "ew"
          },
          {
             "items" : [ 11352061093170324172 ],
@@ -896,7 +1119,7 @@
             "search" : "keyviz"
          },
          {
-            "items" : [ 17447014422083030972 ],
+            "items" : [ 16257428652159271875, 17447014422083030972 ],
             "search" : "linux"
          },
          {
@@ -946,6 +1169,10 @@
          {
             "items" : [ 15075744586235774773 ],
             "search" : "theme"
+         },
+         {
+            "items" : [ 8128916363279953795 ],
+            "search" : "wallhaven"
          },
          {
             "items" : [ 18313120601887940035 ],
